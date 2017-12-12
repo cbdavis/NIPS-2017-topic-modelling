@@ -9,7 +9,7 @@ View all the topics:
 View all papers within a specific topic:
 <img src="https://github.com/cbdavis/NIPS-2017-topic-modelling/raw/master/images/Topic17.png">
 
-View all topics containing where the word *"gaussian"* is prominent:
+View all topics where the word *"gaussian"* is prominent:
 <img src="https://github.com/cbdavis/NIPS-2017-topic-modelling/raw/master/images/GaussianTopics.png">
 
 View a single paper, with a link to the original online version:
